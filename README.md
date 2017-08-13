@@ -4,6 +4,6 @@
 
 ### Directions:
 
-`npm init --yes`
-`npm install`
-`npm install express --save`
+- `npm init --yes`
+- `npm install`
+- `npm install express --save`
